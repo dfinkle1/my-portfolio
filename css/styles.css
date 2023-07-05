@@ -8559,6 +8559,10 @@ fieldset:disabled .btn {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
 }
+.text-neon {
+  --bs-text-opacity: 1;
+  --bs-link-color: #32fbe2;
+}
 
 .text-body {
   --bs-text-opacity: 1;

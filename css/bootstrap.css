@@ -4347,9 +4347,9 @@ fieldset:disabled .btn {
   --bs-card-cap-padding-y: 0.5rem;
   --bs-card-cap-padding-x: 1rem;
   --bs-card-cap-bg: rgba(0, 0, 0, 0.03);
-  --bs-card-cap-color: #fff;
+  --bs-card-cap-color: 32fbe2;
   --bs-card-height: ;
-  --bs-card-color: #fff;
+  --bs-card-color: 32fbe2;
   --bs-card-bg: #fff;
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
